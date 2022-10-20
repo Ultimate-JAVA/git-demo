@@ -1,4 +1,5 @@
 public void upload(){
         System.out.println("a1");
         System.out.println("sdfihaskdjhfasjdflasjdfsadfsa");
+        System.out.println("测试一下SSH免密登录");
 }
